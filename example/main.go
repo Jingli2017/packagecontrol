@@ -1,9 +1,9 @@
-package example
+package main
 
 import (
-  "fmt"
+	"fmt"
 )
 
-func main(){
-  fmt.Println("package control")
+func main() {
+	fmt.Println("package control")
 }
