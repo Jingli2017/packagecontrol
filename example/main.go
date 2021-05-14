@@ -1,0 +1,9 @@
+package example
+
+import (
+  "fmt"
+)
+
+func main(){
+  fmt.Println("package control")
+}
